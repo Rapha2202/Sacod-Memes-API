@@ -1,12 +1,15 @@
 const express = require("express");
 const db = require("./db.json");
 
+const cors = require("cors");
+app.use(cors());
+
 const app = express();
 
 const PORT = 3300;
 
 app.get("/", (req, res) => {
-  res.send("Allez lire la Doc -> https://github.com/Rapha2202/Sacod-Memes-API");
+  res.send("Allez lire la Doc -> https://rapha2202.github.io/Sacod-Memes-API/");
 });
 
 app.get("/api/all", (req, res) => {

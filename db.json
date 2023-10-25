@@ -1,0 +1,58 @@
+{
+  "memes": [
+    {
+      "id": 1,
+      "name": "Antho gaaa",
+      "image": "https://cdn.discordapp.com/attachments/1149675059007455232/1166390248515846236/meme.jpg?ex=654a5091&is=6537db91&hm=9d952a8ca4ae615f49fb4e3ba79159170d99b967c318bf3255f2aa0a586d03a1&",
+      "auteur": "Tristan"
+    },
+    {
+      "id": 2,
+      "name": "Cors",
+      "image": "https://cdn.discordapp.com/attachments/1134229802908405882/1166368051051106384/83nd1h.png?ex=654a3be5&is=6537c6e5&hm=13a4b485e58f42d163ff4d53f7abfd85493e05e76e4f724a8a2cd17c220dec6f&",
+      "auteur": "Baptiste"
+    },
+    {
+      "id": 3,
+      "name": "Sam Cors",
+      "image": "https://cdn.discordapp.com/attachments/1134229802908405882/1166363271369064498/meme_cors.jpg?ex=654a3771&is=6537c271&hm=cd55c61894a76688d93382366ea0c119b4794991a3b61d07668bde3e7473311f&",
+      "auteur": "Tristan"
+    },
+    {
+      "id": 4,
+      "name": "Pierre Meme",
+      "image": "https://cdn.discordapp.com/attachments/1147133278948700241/1165945139387170886/83i80x.png?ex=6548b207&is=65363d07&hm=37382da4c1abf137dc23462ae7bbe9b76eca535fe354491c239fb57fa2e0cbc6&",
+      "auteur": "Anthony"
+    },
+    {
+      "id": 5,
+      "name": "A2F",
+      "image": "https://cdn.discordapp.com/attachments/1147133278948700241/1165943167317716992/83i7d0.jpg?ex=6548b031&is=65363b31&hm=b3e67b896c7e7f79d652fd6f579cc0c93355fa2658f9749ebc80af44700cc450&",
+      "auteur": "Pierre"
+    },
+    {
+      "id": 6,
+      "name": "Meme Maker badge",
+      "image": "https://cdn.discordapp.com/attachments/1154353380223881236/1164948085865201796/mememaaker.jpg?ex=65451173&is=65329c73&hm=c215acc0c10e68fcb8e81ac328c95e500b7af25aa297b83e1207f8c47b8cd8ba&",
+      "auteur": "Pierre"
+    },
+    {
+      "id": 7,
+      "name": "Monorepo",
+      "image": "https://cdn.discordapp.com/attachments/1149675059007455232/1164558378824106035/833vza.jpg?ex=6543a681&is=65313181&hm=8c7db6b5bd026e291d5e8e84d21081dbc3c5ad1d1153fe4e23cd8956fff78cdb&",
+      "auteur": "Pierre"
+    },
+    {
+      "id": 8,
+      "name": "Mr Props",
+      "image": "https://cdn.discordapp.com/attachments/1134229802908405882/1161948638247923762/image.png?ex=6543627f&is=6530ed7f&hm=f482cb2ee8d05d13e8cb7e9ee098d7d8b2aedf63d1f03dbc3a851f5c81527462&",
+      "auteur": "Jonathan"
+    },
+    {
+      "id": 9,
+      "name": "Blob Bapt",
+      "image": "https://cdn.discordapp.com/attachments/1149675059007455232/1161679535142613173/826w49.jpg?ex=654ba260&is=65392d60&hm=30c8dc9f6f5ca43ffec235511b3cf56f51f450eb827124674403234f00335bc1&",
+      "auteur": "Pierre"
+    }
+  ]
+}

@@ -24,7 +24,7 @@ Id allant de 1 à 9.
 
 #### Auteur disponible:
 
-Pierre, Baptiste, Anthony, Tristan, Jonathan
+Pierre, Baptiste, Anthony, Tristan, Jonathan, Doriane
 
 `/api/memes/auteur/:auteur`
 

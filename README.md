@@ -1,27 +1,51 @@
 # Sacod-Memes-API
 
-## Accès a l'API
+## Base URL de l'API:
 
 https://sacod-memes-api.vercel.app/
 
-## Tous les mêmes:
+## Endpoint de l'API pour les Mêmes:
 
-`/api/all`
+### Tous les mêmes:
 
-## Un même random:
+`/api/memes/all`
 
-`/api/random`
+### Un même random:
 
-## Par son id:
+`/api/memes/random`
+
+### Par son id:
 
 Id allant de 1 à 9.
 
-`/api/id/:id`
+`/api/memes/id/:id`
 
-## Par son auteur:
+### Par son auteur:
 
-### Auteur disponible:
+#### Auteur disponible:
 
 Pierre, Baptiste, Anthony, Tristan, Jonathan
 
-`/api/auteur/:auteur`
+`/api/memes/auteur/:auteur`
+
+## Endpoint de l'API pour les Montages:
+
+### Tous les montages:
+
+`/api/montages/all`
+
+### Par son id:
+
+`/api/montages/id/:id`
+
+### Par son nom:
+
+#### Nom disponible:
+
+Anthony, Samuel, Ghislain, Jeremy, Jonathan, Jordan, Mehdi, Morgane, Oceane, Pierre, Tristan, Baptiste, Baris, Doriane, Elie, Flavien, Francois
+
+`/api/montages/name/:name`
+
+## Réclamation:
+
+Pour toutes réclamations ou ajouts vous pouvez me mp sur discord: `rapha2202`

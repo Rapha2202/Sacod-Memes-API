@@ -1,6 +1,6 @@
 {
   "name": "sacod-memes-api",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Une API avec tous les mêmes d'Antho",
   "main": "index.js",
   "scripts": {
